@@ -1,0 +1,21 @@
+musician:
+  payment: 150
+instrument:
+  cello:
+    name: cello
+  clarinet:
+    name: clarinet
+  flute:
+    name: flute
+  hornTrumpet:
+    name: hornTrumpet
+  percussion:
+    name: percussion
+  trombone:
+    name: trombone
+  viola:
+    name: viola
+  violin:
+    name: violin
+
+
